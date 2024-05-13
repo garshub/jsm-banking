@@ -68,11 +68,13 @@ const AuthForm = ({ type }: { type: string }) => {
       }
 
       if (type === "sign-in") {
+        console.log("in sign-in", data);
         const response = await signIn({
           email: data.email,
           password: data.password,
         });
-        if (response) router.push("/");
+        console.log(response);
+        if (response) router.replace("/");
       }
     } catch (error) {
       console.log(error);
@@ -119,12 +121,14 @@ const AuthForm = ({ type }: { type: string }) => {
                 <>
                   <div className="flex gap-4">
                     <CustomInput
+                      inputId="firstName"
                       control={form.control}
                       name="firstName"
                       label="First Name"
                       placeholder="Enter your first name"
                     />
                     <CustomInput
+                      inputId="lastName"
                       control={form.control}
                       name="lastName"
                       label="Last Name"
@@ -132,12 +136,14 @@ const AuthForm = ({ type }: { type: string }) => {
                     />
                   </div>
                   <CustomInput
+                    inputId="address1"
                     control={form.control}
                     name="address1"
                     label="Address"
                     placeholder="Enter your specific address"
                   />
                   <CustomInput
+                    inputId="city"
                     control={form.control}
                     name="city"
                     label="City"
@@ -145,12 +151,14 @@ const AuthForm = ({ type }: { type: string }) => {
                   />
                   <div className="flex gap-4">
                     <CustomInput
+                      inputId="state"
                       control={form.control}
                       name="state"
                       label="State"
                       placeholder="Example: NY"
                     />
                     <CustomInput
+                      inputId="postalCode"
                       control={form.control}
                       name="postalCode"
                       label="Postal Code"
@@ -159,12 +167,14 @@ const AuthForm = ({ type }: { type: string }) => {
                   </div>
                   <div className="flex gap-4">
                     <CustomInput
+                      inputId="dob"
                       control={form.control}
                       name="dateOfBirth"
                       label="Date of Birth"
                       placeholder="YYYY-MM-DD"
                     />
                     <CustomInput
+                      inputId="ssn"
                       control={form.control}
                       name="ssn"
                       label="SSN"
@@ -175,6 +185,7 @@ const AuthForm = ({ type }: { type: string }) => {
               )}
 
               <CustomInput
+                inputId="email"
                 control={form.control}
                 name="email"
                 label="Email"
@@ -182,6 +193,7 @@ const AuthForm = ({ type }: { type: string }) => {
               />
 
               <CustomInput
+                inputId="password"
                 control={form.control}
                 name="password"
                 label="Password"
