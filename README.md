@@ -73,8 +73,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/banking.git
-cd banking
+git clone https://github.com/garshub/jsm-banking.git
+cd jsm-banking
 ```
 
 **Installation**
