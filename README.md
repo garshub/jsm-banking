@@ -18,6 +18,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+5. 🎦 [Screenshots](#screenshots)
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -125,3 +126,11 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+## <a name="screenshots">🎦 Screenshots</a>
+
+![Screenshot 2024-05-13 at 10 46 42 PM](https://github.com/garshub/jsm-banking/assets/89763455/780e1cb8-bc14-4c27-b7a7-b9ef9b9e4d61)
+
+
+
+
