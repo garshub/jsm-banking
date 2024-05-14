@@ -132,8 +132,11 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ![Screenshot 2024-05-13 at 10 53 27 PM](https://github.com/garshub/jsm-banking/assets/89763455/b1bba43f-8410-4479-a05d-98a042c4bf4f)
 ![Screenshot 2024-05-13 at 10 52 22 PM](https://github.com/garshub/jsm-banking/assets/89763455/989845cd-30cf-4c8a-8519-2bd33527b6b3)
 ![Screenshot 2024-05-13 at 10 46 42 PM](https://github.com/garshub/jsm-banking/assets/89763455/e7390a45-2fec-4521-a4e7-042bc7abcb1d)
+![Screenshot 2024-05-13 at 11 03 38 PM](https://github.com/garshub/jsm-banking/assets/89763455/4861aead-24b7-4747-8c3f-a09126abf7c3)
 
-
+<div>
+  <p>Credits- [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) for the awesome tutorial</p>
+</div>
 
 
 
