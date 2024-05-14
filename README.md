@@ -9,7 +9,7 @@
 
   <h3 align="center">Horizon, A Fintech Bank Application</h3>
 
-  <h2>Vercel Deployment: https://jsm-banking-hydouqkv5-shubhams-projects-4ff8af01.vercel.app/sign-in</h2>
+  <p>Vercel Deployment: https://jsm-banking-hydouqkv5-shubhams-projects-4ff8af01.vercel.app/sign-in</p>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
