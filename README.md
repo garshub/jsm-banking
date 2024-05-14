@@ -129,11 +129,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="screenshots">🎦 Screenshots</a>
 
-![Screenshot 2024-05-13 at 10 46 42 PM](https://github.com/garshub/jsm-banking/assets/89763455/780e1cb8-bc14-4c27-b7a7-b9ef9b9e4d61)
-
-![Screenshot 2024-05-13 at 10 52 22 PM](https://github.com/garshub/jsm-banking/assets/89763455/ac828eae-6687-4894-a42a-be5c92056ae2)
-
-![Screenshot 2024-05-13 at 10 53 27 PM](https://github.com/garshub/jsm-banking/assets/89763455/917a5d1f-08d2-4b1c-9cc9-567a982a721a)
+![Screenshot 2024-05-13 at 10 53 27 PM](https://github.com/garshub/jsm-banking/assets/89763455/b1bba43f-8410-4479-a05d-98a042c4bf4f)
+![Screenshot 2024-05-13 at 10 52 22 PM](https://github.com/garshub/jsm-banking/assets/89763455/989845cd-30cf-4c8a-8519-2bd33527b6b3)
+![Screenshot 2024-05-13 at 10 46 42 PM](https://github.com/garshub/jsm-banking/assets/89763455/e7390a45-2fec-4521-a4e7-042bc7abcb1d)
 
 
 
