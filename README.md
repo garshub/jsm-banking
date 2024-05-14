@@ -8,10 +8,6 @@
   </div>
 
   <h3 align="center">A Fintech Bank Application</h3>
-
-   <div align="center">
-     
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
