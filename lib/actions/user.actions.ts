@@ -131,7 +131,7 @@ export const createBankAccount = async ({
     accountId,
     accessToken,
     fundingSourceUrl,
-    shareableId,
+    sharaebleId,
   }: createBankAccountProps) => {
     try {
       const { database } = await createAdminClient();
@@ -146,7 +146,7 @@ export const createBankAccount = async ({
           accountId,
           accessToken,
           fundingSourceUrl,
-          shareableId,
+          sharaebleId,
         }
       )
   
@@ -216,14 +216,14 @@ export const createLinkToken = async (user: User) => {
       // If the funding source URL is not created, throw an error
       if (!fundingSourceUrl) throw Error;
   
-      // Create a bank account using the user ID, item ID, account ID, access token, funding source URL, and shareableId ID
+      // Create a bank account using the user ID, item ID, account ID, access token, funding source URL, and sharaebleId ID
       await createBankAccount({
         userId: user.$id,
         bankId: itemId,
         accountId: accountData.account_id,
         accessToken,
         fundingSourceUrl,
-        shareableId: encryptId(accountData.account_id),
+        sharaebleId: encryptId(accountData.account_id),
       });
   
       // Revalidate the path to reflect the changes
