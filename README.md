@@ -7,7 +7,9 @@
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-  <h3 align="center">A Fintech Bank Application</h3>
+  <h3 align="center">Horizon, A Fintech Bank Application</h3>
+
+  <h2>Vercel Deployment: https://jsm-banking-hydouqkv5-shubhams-projects-4ff8af01.vercel.app/sign-in</h2>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
