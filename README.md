@@ -135,8 +135,11 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ![Screenshot 2024-05-13 at 11 03 38 PM](https://github.com/garshub/jsm-banking/assets/89763455/4861aead-24b7-4747-8c3f-a09126abf7c3)
 
 <div>
-  <p>Credits- [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) for the awesome tutorial</p>
+  <p style="font-size: smaller;">
+    Credits- <a href="https://www.youtube.com/@javascriptmastery">JavaScript Mastery</a> for the awesome tutorial
+  </p>
 </div>
+
 
 
 
