@@ -127,6 +127,14 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+During signup, use a valid city and state (CA). You can use dummy values for other fields. 
+
+Dummy Credentials when linking Bank Accounts through Plaid:
+```
+username: user_good
+password: pass_good
+```
+
 ## <a name="screenshots">🎦 Screenshots</a>
 
 ![Screenshot 2024-05-13 at 10 53 27 PM](https://github.com/garshub/jsm-banking/assets/89763455/b1bba43f-8410-4479-a05d-98a042c4bf4f)
