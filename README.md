@@ -10,7 +10,8 @@
   <h3 align="center">Horizon, A Fintech Bank Application</h3>
 
   <p>Vercel Deployment: https://jsm-banking-hydouqkv5-shubhams-projects-4ff8af01.vercel.app/sign-in</p>
-
+</div>
+<div align="left">
   <p>Username: account@demo.com</p>
   <p>Password: Password@1234</p>
 </div>
